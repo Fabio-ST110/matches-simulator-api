@@ -1,1 +1,19 @@
-
+[
+  {
+    "descrição": "eliminatorias copa 2022",
+    "local": {
+      "nome":"Camp Nou,
+      "imagem": "TODO"
+    },
+    "Mandante": {
+      "nome": "Brazil",
+      "força": 5,
+      "imagem": "TODO"
+    },
+    "Visitante": {
+      "nome": "Argentina",
+      "força": 3,
+      "imagem": "TODO"
+    }
+  }
+]
